@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/IGB100 Cycle 3 Wobble.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
